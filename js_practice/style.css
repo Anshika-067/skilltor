@@ -1,0 +1,8 @@
+*{
+    width: 100%;
+    box-sizing: border-box;
+}
+.page{
+    color: aquamarine;
+    background-color: black;
+}
